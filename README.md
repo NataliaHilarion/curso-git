@@ -4,4 +4,4 @@ Hola estoy haciendo el curso de git y github.
 
 Agregando más contenido al README
 
-copyrigth 2023
+copyright 2023
