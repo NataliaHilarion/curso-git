@@ -1,0 +1,118 @@
+commit bbfcdf4d1a5329550334a95c8b20f35f24506d91
+Merge: bd9ac7d bef068e
+Author: Natalia Hilarion <natalia.hilarion@outlook.com>
+Date:   Wed Mar 8 19:40:39 2023 -0500
+
+    otro
+
+commit bd9ac7d071107a771d1fcb469cbe3df5fc2ed6ad
+Author: Natalia Hilarion <natalia.hilarion@outlook.com>
+Date:   Wed Mar 8 19:35:31 2023 -0500
+
+    Agregando las estaciones del año version 2
+
+commit df9c835d385e48d2f1cc6752b6cb3aa42bb079d0
+Merge: 0712539 b5425d5
+Author: Natalia Hilarion <natalia.hilarion@outlook.com>
+Date:   Wed Mar 8 19:29:13 2023 -0500
+
+    resolviendo conflicto merge main html
+
+commit bef068e874324b09d6ba2e9a089dcfcea7b1e31e
+Merge: 0712539 b5425d5
+Author: Natalia Hilarion <natalia.hilarion@outlook.com>
+Date:   Wed Mar 8 19:29:13 2023 -0500
+
+    resolviendo conflicto merge main html
+
+commit 071253935fde68c100cd49207b4c8e7cdb2bfa97
+Author: Natalia Hilarion <natalia.hilarion@outlook.com>
+Date:   Wed Mar 8 19:10:24 2023 -0500
+
+    Agregando estaciones del año con fecha de inicio
+
+commit b5425d58709bb2103c2ee4d9265efae2b2206666
+Author: Natalia Hilarion <natalia.hilarion@outlook.com>
+Date:   Wed Mar 8 19:10:24 2023 -0500
+
+    Agregando las estaciones del año
+
+commit 524587a9d77bad157e33825a991352e0b10245a9
+Author: Natalia Hilarion <natalia.hilarion@outlook.com>
+Date:   Wed Mar 8 19:07:43 2023 -0500
+
+    agregando css y js al html
+
+commit a6c2347b1177613934e5195195ac30c5fb1bf3c2
+Merge: 6dca84a 0bc3f0d
+Author: Natalia Hilarion <natalia.hilarion@outlook.com>
+Date:   Wed Mar 8 18:30:27 2023 -0500
+
+    Merge branch 'js'
+
+commit 6dca84ac03d2222553cf3074d961debd66114c1c
+Merge: 08876cb f498f6d
+Author: Natalia Hilarion <natalia.hilarion@outlook.com>
+Date:   Wed Mar 8 18:30:02 2023 -0500
+
+    Merge branch 'css'
+
+commit 0bc3f0d69ff8883d475cbd954bfe3f096ec8250d
+Author: Natalia Hilarion <natalia.hilarion@outlook.com>
+Date:   Wed Mar 8 18:27:42 2023 -0500
+
+    creando index.js
+
+commit f498f6dceb42fcb9395b8bc30daca052b0b5ef81
+Author: Natalia Hilarion <natalia.hilarion@outlook.com>
+Date:   Wed Mar 8 18:25:13 2023 -0500
+
+    creando index.css
+
+commit 08876cb72a56d42dfbc9944b59169e5b3d75fc59
+Author: Natalia Hilarion <natalia.hilarion@outlook.com>
+Date:   Wed Mar 8 18:22:58 2023 -0500
+
+    creando index.html
+
+commit 5f9abe22b6b4cb60100e0b701a9a56bd281f7026
+Author: Natalia Hilarion <natalia.hilarion@outlook.com>
+Date:   Wed Mar 8 09:17:05 2023 -0500
+
+    ignorando todos los archivos .exe
+
+commit 3ccda24e8e7aa93d6f5f587c265412ee412f6251
+Author: Natalia Hilarion <natalia.hilarion@outlook.com>
+Date:   Wed Mar 8 09:03:04 2023 -0500
+
+    corrigiendo error ortografico
+
+commit 02d3a796df124085a0d39cb4dd4ccde4b0fca4a9
+Author: Natalia Hilarion <natalia.hilarion@outlook.com>
+Date:   Wed Mar 8 09:01:54 2023 -0500
+
+    nueva linea en README
+
+commit 95e56840a7309ecde81fbda0921b933dc0929ea3
+Author: NATALIA HILARION <77810734+NataliaHilarion@users.noreply.github.com>
+Date:   Mon Mar 6 20:07:31 2023 -0500
+
+    Creando Licencia.txt
+
+commit bc00bb2d6295717458ab1904e3b6e5397bfd9da4
+Author: Natalia Hilarion <natalia.hilarion@outlook.com>
+Date:   Mon Mar 6 20:01:21 2023 -0500
+
+    Agregando mas contenido al readme
+
+commit 4711522ef7b54843f25cc85fd24a8c52ce5ad893
+Author: Natalia Hilarion <natalia.hilarion@outlook.com>
+Date:   Mon Mar 6 19:49:39 2023 -0500
+
+    Agregando Contenido Inicial al Readme
+
+commit bc10b99f6719b2989635f30afb7fafe5a9b0e8f3
+Author: Natalia Hilarion <natalia.hilarion@outlook.com>
+Date:   Mon Mar 6 19:46:09 2023 -0500
+
+    Primer commit
